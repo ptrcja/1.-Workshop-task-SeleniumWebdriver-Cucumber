@@ -12,5 +12,5 @@ Feature: MyStore Address Management
     And I close mystore browser
 
     Examples:
-      | email          | password  | alias | address         | city   | postalCode | country  | phone     |
-      | bla@gmail.com | blabla123 | Home  | Avenida Marconi | Lisbon | 100-205    | United Kingdom | 254598524 |
+      | email          | password         | alias | address         | city   | postalCode | country        | phone     |
+      |  bla@gmail.com |testingtesting&*( | Home  | Avenida Marconi | Lisbon | 100-205    | United Kingdom | 254598524 |
